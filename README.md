@@ -1,65 +1,78 @@
-# Hey, I'm Kesley! 👋
+<h1 align="center">Hey, I'm Kesley!</h1>
 
-> *"Turning caffeine into code and chaos into clean architecture since 2025."*
-
----
-
-## The Origin Story 🎮
-
-I'm a **Computer Science student at York University** who somehow went from being the kid who took apart the family computer (sorry, mom) to the guy managing **50,000+ user accounts** at the same university. Life's funny like that.
-
-When I'm not debugging authentication systems or building market analysis tools, you can find me:
-- 🏎️ **Piloting robots** at Skills Ontario competitions (yes, I program them in Java and yes, it's as cool as it sounds)
-- 🎤 **Leading 1,000 students** as Student Council President — basically a full-time job in diplomacy and event planning
-- 🌐 **Co-founding youth ministries** because tech skills + community impact = my kind of combo
-- 📊 **Analyzing stock markets** for fun — I built an entire tool for it because why not?
+<p align="center">
+  <em>"Turning caffeine into code since 2025."</em>
+</p>
 
 ---
 
-## What I Actually Do 💻
+## Who Am I?
 
-```
-while (alive) {
-    code();
-    debug();
-    coffee();
-    repeat();
-}
-```
+CS student at **York University** who went from breaking family computers to managing **50,000+ accounts** at the same school. I build robots, analyze markets, lead students, and occasionally sleep.
 
-**Current quests:**
-- 🛡️ **Cybersecurity & IAM** — I lock down accounts so hackers cry
-- 🤖 **Robotics Programming** — Making machines move with Java magic
-- 📈 **Quantitative Development** — Turning market data into pretty dashboards
-- 🌐 **Web Development** — Building sites that don't look like they're from 2003
+**The Vibe:** Code by day. Robots by competition season. Ministry by calling. Coffee always.
 
 ---
 
-## The Stats Sheet 📊
+## Quick Stats
 
-| Category | Level |
-|----------|-------|
-| Python | ████████████████████ 95% |
-| Java | ███████████████████░ 90% |
-| Problem Solving | ████████████████████ 99% |
-| Caffeine Tolerance | ████████████████████ 1000% |
-| Sleep | ███░░░░░░░░░░░░░░░░░ 15% |
+| Skill | Level |
+|-------|-------|
+| Python | ████████████████████ |
+| Java | ███████████████████░ |
+| Problem Solving | ████████████████████ |
+| Caffeine | ████████████████████ |
+| Sleep | ███░░░░░░░░░░░░░░░░░ |
 
----
-
-## Let's Connect! 🚀
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | kesleyabaka@gmail.com |
-| 💼 LinkedIn | linkedin.com/in/kesley-abakabawakow |
-| 🐙 GitHub | github.com/KesleyExe |
-| 🌐 Portfolio | [kesleysportfolio.site.je](https://kesleysportfolio.site.je/?i=1) |
-| 📍 Location | North York, ON |
 
 ---
 
-> *"Available for Software Engineering, Quantitative Development, Cybersecurity, and Technology Internships. Also available for coffee recommendations."*
-**P.S.** — If you made it this far, you're officially cooler than 90% of recruiters. Hit me up!
+## Cool Stuff I've Done
+
+- **IAM Admin @ York** — Locked down 50k+ accounts, 95% first-call resolution
+- **Skills Ontario Robotics** — Lead programmer & pilot. Java-powered machines go brrr
+- **Built a Market Parser** — Real-time stock/crypto analysis tool. Zero external deps
+- **Student Council President** — Led 1,000 students through events, drama, and spirit weeks
+- **3 Websites Built** — EPI Fire, UPBACDA Toronto, and my own portfolio
+- **Microsoft ICT Program** — Explored AI before it was mainstream
 
 ---
+
+## Fun Facts
+
+- Ontario Scholar + 3x Tech Award Winner + 2x TCAA Finalist
+- Volleyball, Track & Field, Swim Team — I don't just sit at a desk
+- Altar server since 2016. 200+ volunteer hours. Faith & service matter
+- Interviewed pro gamers as an esports broadcaster
+
+---
+
+## My Philosophy
+
+> *"Clean code > clever code. Impact > impressions. Coffee > sleep (unfortunately)."*
+
+---
+
+## Let's Talk
+
+<p align="center">
+  <a href="mailto:kesleyabaka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/kesley-abakabawakow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/NotKesley">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://kesleysportfolio.site.je/?i=1">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Available for internships in Software Engineering, Quant Dev, Cybersecurity & Tech.</strong><br>
+  <em>Also available for coffee recommendations.</em>
+</p>

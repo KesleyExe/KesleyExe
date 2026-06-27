@@ -47,38 +47,6 @@ while (alive) {
 
 ---
 
-## Fun Facts That Make Me "Me" 🎯
-
-- 🏆 **Ontario Scholar** — I didn't just pass high school, I *excelled* at it (pun intended)
-- 🎓 **3x Technology Award Winner** — They kept giving me trophies, so I kept collecting them
-- 🤝 **200+ volunteer hours** — Altar server since 2016. Faith, service, and consistency are my thing
-- 🏐 **Athlete** — Volleyball, Track & Field, Swim Team. I don't just code; I move
-- 🎬 **Esports Broadcaster** — I've interviewed pro gamers and lived to tell the tale
-- ☁️ **Microsoft Alumni** — Briefly, but it counts. Explored AI before it was cool
-
----
-
-## My Philosophy 🧠
-
-> *"Technology should solve real problems, not create new ones. Also, if your code doesn't have at least one comment that says 'TODO: fix this later,' are you even coding?"*
-
-I believe in:
-- **Clean code** over clever code
-- **Accessibility** over aesthetics (but why not both?)
-- **Impact** over impressions
-- **Coffee** over sleep (unfortunately)
-
----
-
-## Currently Listening To 🎧
-
-Probably:
-- Lo-fi beats while coding
-- Podcasts about AI taking over the world
-- The sound of my IDE auto-completing my thoughts
-
----
-
 ## Let's Connect! 🚀
 
 | Platform | Link |
@@ -92,6 +60,6 @@ Probably:
 ---
 
 > *"Available for Software Engineering, Quantitative Development, Cybersecurity, and Technology Internships. Also available for coffee recommendations."*
-**P.S.** — If you made it this far, you're officially cooler than 90% of recruiters. Hit me up! 😎## Hi there 👋
+**P.S.** — If you made it this far, you're officially cooler than 90% of recruiters. Hit me up!
 
-\\
+---

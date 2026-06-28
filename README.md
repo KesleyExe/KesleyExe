@@ -30,7 +30,7 @@ CS student at **York University** who went from breaking family computers to man
 ## Cool Stuff I've Done
 
 - **IAM Admin @ York** — Locked down 50k+ accounts, 95% first-call resolution
-- **Skills Ontario Robotics** — Lead programmer & pilot. Java-powered machines go brrr
+- **Skills Ontario Robotics** — Lead programmer & pilot. Java-powered machines
 - **Built a Market Parser** — Real-time stock/crypto analysis tool. Zero external deps
 - **Student Council President** — Led 1,000 students through events, drama, and spirit weeks
 - **3 Websites Built** — EPI Fire, UPBACDA Toronto, and my own portfolio

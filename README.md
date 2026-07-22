@@ -61,7 +61,7 @@ CS student at **York University** who went from breaking family computers to man
   <a href="https://linkedin.com/in/kesley-abakabawakow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/NotKesley">
+  <a href="https://github.com/KesleyExe">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://kesleysportfolio.site.je/?i=1">

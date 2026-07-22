@@ -19,7 +19,6 @@ CS student at **York University** who went from breaking family computers to man
 | Skill | Level |
 |-------|-------|
 | Python | ████████████████████ |
-| Java | ███████████████████░ |
 | Problem Solving | ████████████████████ |
 | Caffeine | ████████████████████ |
 | Sleep | ███░░░░░░░░░░░░░░░░░ |

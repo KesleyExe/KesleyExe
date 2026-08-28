@@ -1,77 +1,94 @@
-<h1 align="center">Hey, I'm Kesley!</h1>
+<h1 align="center">Kesley Abakabawakow</h1>
 
 <p align="center">
-  <em>"Turning caffeine into code since 2025."</em>
+  <strong>AI Engineer Intern @ Synk · CS @ York University</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:kesleyabaka@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/kesley-abakabawakow">LinkedIn</a> ·
+  <a href="https://github.com/KesleyExe">GitHub</a> ·
+  <a href="https://kesleysportfolio.site.je">Portfolio</a>
 </p>
 
 ---
 
-## Who Am I?
+## About
 
-CS student at **York University** who went from breaking family computers to managing **50,000+ accounts** at the same school. I build robots, analyze markets, lead students, and occasionally sleep.
+I build **LLM-powered products, real-time applications, and developer tools**. Currently working as an AI Engineer Intern at **Synk**, shipping production AI features and optimizing inference costs.
 
-**The Vibe:** Code by day. Robots by competition season. Ministry by calling. Coffee always.
-
----
-
-## Quick Stats
-
-| Skill | Level |
-|-------|-------|
-| Python | ████████████████████ |
-| Problem Solving | ████████████████████ |
-| Caffeine | ████████████████████ |
-| Sleep | ███░░░░░░░░░░░░░░░░░ |
-
+* 🔭 Building: LLM pipelines, real-time computer vision, local AI
+* 🌱 Learning: Quantitative finance & distributed systems
+* 📫 **[kesleyabaka@gmail.com](mailto:kesleyabaka@gmail.com)**
 
 ---
 
-## Cool Stuff I've Done
+## Experience
 
-- **IAM Admin @ York** — Locked down 50k+ accounts, 95% first-call resolution
-- **Skills Ontario Robotics** — Lead programmer & pilot. Java-powered machines
-- **Built a Market Parser** — Real-time stock/crypto analysis tool. Zero external deps
-- **Student Council President** — Led 1,000 students through events, drama, and spirit weeks
-- **3 Websites Built** — EPI Fire, UPBACDA Toronto, and my own portfolio
-- **Microsoft ICT Program** — Explored AI before it was mainstream
+### AI Engineer Intern @ Synk
+
+*Jul 2026 – Present*
+
+* Reduced AI token costs by **35%** through model and token-calculation optimization
+* Shipped **3 AI-powered features** to 120+ users using Python, LangChain, and OpenAI
+* Built structured LLM pipelines using **Pydantic schemas and structured outputs**
+* Developed async web-scraping pipelines with `asyncio` for live data collection and normalization
+
+### IT Support Assistant @ York University
+
+*Sep 2025 – Feb 2026 · Aug 2026 – Present*
+
+* Resolved **50–80 tickets/week** supporting 50,000+ users
+* Maintained **100% SLA compliance** and 95%+ first-call resolution
+
+### Robotics Lead Engineer @ Skills Ontario / Skills Canada
+
+*Sep 2023 – Feb 2026*
+
+* Built autonomous navigation systems using **OpenCV and Java**
+* Designed and 3D-printed custom robotics mechanisms using **Fusion 360**
 
 ---
 
-## Fun Facts
+## Projects
 
-- Ontario Scholar + 3x Tech Award Winner + 2x TCAA Finalist
-- Volleyball, Track & Field, Swim Team — I don't just sit at a desk
-- Altar server since 2016. 200+ volunteer hours. Faith & service matter
-- Interviewed pro gamers as an esports broadcaster
+### [QuantFlow Zero](https://github.com/KesleyExe/Market-Data-Parser)
+
+Zero-dependency market analysis tool that fetches live stock/crypto data, implements technical indicators from scratch, and generates interactive dashboards.
+
+**Python · REST APIs**
+
+### [Push-up Arena](https://github.com/KesleyExe/rankedpushups)
+
+Real-time multiplayer fitness platform using pose detection to track repetitions and WebRTC for peer-to-peer video.
+
+**TensorFlow.js · WebRTC · Socket.IO · Node.js**
+
+### [Gideon](https://github.com/KesleyExe/Gideon)
+
+Fully local AI chatbot with streaming responses, conversation memory, and zero API costs.
+
+**FastAPI · Ollama · LLMs**
 
 ---
 
-## My Philosophy
+## Tech Stack
 
-> *"Clean code > clever code. Impact > impressions. Coffee > sleep (unfortunately)."*
+**AI / ML:** Python · LangChain · OpenAI API · Pydantic · Ollama · Prompt Engineering · OpenCV · TensorFlow.js
+
+**Software Engineering:** Java · Node.js · FastAPI · REST APIs · WebSockets · WebRTC · Asyncio
+
+**Tools:** Git · Fusion 360 · CAD · 3D Printing
 
 ---
 
-## Let's Talk
+## GitHub Stats
 
 <p align="center">
-  <a href="mailto:kesleyabaka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/kesley-abakabawakow">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/KesleyExe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://kesleysportfolio.site.je/?i=1">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KesleyExe&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=60a5fa&text_color=e5e5e5&icon_color=60a5fa" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesleyExe&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=60a5fa&text_color=e5e5e5" alt="Top Languages" width="48%">
 </p>
 
----
-
 <p align="center">
-  <strong>Available for internships in Software Engineering, Quant Dev, Cybersecurity & Tech.</strong><br>
-  <em>Also available for coffee recommendations.</em>
+  <em>Open to Software Engineering and AI/ML internship opportunities.</em>
 </p>

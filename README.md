@@ -1,7 +1,7 @@
-<h1 align="center">Kesley Abakabawakow</h1>
+# Kesley Abakabawakow
 
 <p align="center">
-  <strong>AI Engineer Intern @ Synk · CS @ York University</strong>
+  <strong>AI / Machine Learning Engineering · Computer Science @ York University</strong>
 </p>
 
 <p align="center">
@@ -15,70 +15,98 @@
 
 ## About
 
-I build **LLM-powered products, real-time applications, and developer tools**. Currently working as an AI Engineer Intern at **Synk**, shipping production AI features and optimizing inference costs.
+I build **machine learning applications, LLM-powered tools, and real-time intelligent systems**. My experience includes PyTorch model development, data pipeline debugging, computer vision, and local LLM deployment.
 
-* 🔭 Building: LLM pipelines, real-time computer vision, local AI
-* 🌱 Learning: Quantitative finance & distributed systems
-* 📫 **[kesleyabaka@gmail.com](mailto:kesleyabaka@gmail.com)**
+Currently studying Computer Science at **York University**, with a focus on building practical AI systems and strengthening my machine learning engineering skills.
+
+- 🔭 **Building:** Neural networks, LLM applications, and real-time computer vision systems
+- 🌱 **Learning:** Deep learning, model evaluation, AI infrastructure, and quantitative finance
+- 💼 **Experience:** AI engineering, university IT support, and robotics programming
+- 🎯 **Seeking:** Machine Learning / AI Engineering internships for Summer 2027
+- 📫 **Email:** [kesleyabaka@gmail.com](mailto:kesleyabaka@gmail.com)
 
 ---
 
 ## Experience
 
-### AI Engineer Intern @ Synk
+### AI Engineer Intern | Synk
 
-*Jul 2026 – Present*
+*June 2026 – September 2026*
 
-* Reduced AI token costs by **35%** through model and token-calculation optimization
-* Shipped **3 AI-powered features** to 120+ users using Python, LangChain, and OpenAI
-* Built structured LLM pipelines using **Pydantic schemas and structured outputs**
-* Developed async web-scraping pipelines with `asyncio` for live data collection and normalization
+- Worked with **PyTorch neural network components**, tensor operations, prediction outputs, and target-label formatting.
+- Supported model-training workflows involving forward passes, cross-entropy loss, backpropagation, and optimization with Adam and SGD.
+- Prepared and troubleshot data pipelines for approximately **10,000 AI-generated environments**, addressing data-formatting, tensor-compatibility, and label-conversion issues.
+- Evaluated prompt-to-visual alignment and experimented with learning rates and network configurations to investigate prediction errors and training stability.
 
-### IT Support Assistant @ York University
+### IT Support Assistant | York University
 
-*Sep 2025 – Feb 2026 · Aug 2026 – Present*
+*September 2025 – February 2026 · August 2026 – Present*
 
-* Resolved **50–80 tickets/week** supporting 50,000+ users
-* Maintained **100% SLA compliance** and 95%+ first-call resolution
+- Resolve **50–80 IT support tickets per week**, troubleshooting account access, Duo multi-factor authentication, password resets, and workstation issues.
+- Maintain strong service performance, including SLA compliance and first-contact resolution.
+- Use ticketing systems and technical documentation to investigate incidents, resolve issues, and minimize escalations.
 
-### Robotics Lead Engineer @ Skills Ontario / Skills Canada
+### Robotics Lead Engineer & Programmer | Skills Ontario / Skills Canada
 
-*Sep 2023 – Feb 2026*
+*September 2023 – February 2026*
 
-* Built autonomous navigation systems using **OpenCV and Java**
-* Designed and 3D-printed custom robotics mechanisms using **Fusion 360**
+- Developed autonomous robotics software using **Java, OpenCV, and REV Robotics hardware**.
+- Implemented colour detection and RGBA image processing for object identification.
+- Designed and 3D-printed custom robotic mechanisms using **Fusion 360**, iterating on grip strength, weight, and durability.
 
 ---
 
-## Projects
+## Featured Projects
 
-### [QuantFlow Zero](https://github.com/KesleyExe/Market-Data-Parser)
+### [Cat vs. Dog Neural Network](https://github.com/KesleyExe/CDNN)
 
-Zero-dependency market analysis tool that fetches live stock/crypto data, implements technical indicators from scratch, and generates interactive dashboards.
+A PyTorch classification project exploring neural network architecture, model training, and evaluation on a synthetic tabular dataset.
 
-**Python · REST APIs**
+**Highlights**
+- Built a feed-forward neural network using five numerical input features, an 8-neuron ReLU hidden layer, and a two-class output layer.
+- Trained with cross-entropy loss and Adam optimization over 100 epochs.
+- Achieved **91.75% test accuracy** across 400 held-out samples.
+- Visualized training loss and used a confusion matrix to examine classification performance.
+
+**Technologies:** Python · PyTorch · Neural Networks · Model Evaluation
 
 ### [Push-up Arena](https://github.com/KesleyExe/rankedpushups)
 
-Real-time multiplayer fitness platform using pose detection to track repetitions and WebRTC for peer-to-peer video.
+A real-time multiplayer fitness platform that uses computer vision to estimate body pose and automatically count push-ups.
 
-**TensorFlow.js · WebRTC · Socket.IO · Node.js**
+**Highlights**
+- Integrated **TensorFlow.js MoveNet** for webcam-based pose estimation.
+- Used elbow-angle analysis to identify and count repetitions.
+- Built multiplayer functionality with a Node.js backend and real-time communication.
+- Implemented an Elo-style ranking system to compare player performance.
+
+**Technologies:** JavaScript · TensorFlow.js · Node.js · WebSockets · Computer Vision
 
 ### [Gideon](https://github.com/KesleyExe/Gideon)
 
-Fully local AI chatbot with streaming responses, conversation memory, and zero API costs.
+A privacy-focused chatbot that runs open-source large language models locally.
 
-**FastAPI · Ollama · LLMs**
+**Highlights**
+- Built a local LLM application using Python, FastAPI, and Ollama.
+- Implemented token-by-token response streaming and multi-turn conversation context.
+- Created a responsive web interface for interactive conversations.
+- Automated setup across Windows and Unix-like environments.
+
+**Technologies:** Python · FastAPI · Ollama · LLMs · REST APIs
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**AI / ML:** Python · LangChain · OpenAI API · Pydantic · Ollama · Prompt Engineering · OpenCV · TensorFlow.js
+**Machine Learning & AI:** PyTorch · Neural Networks · Model Training · Backpropagation · Cross-Entropy Loss · Adam Optimization · Model Evaluation · TensorFlow.js · OpenCV · Pose Estimation
 
-**Software Engineering:** Java · Node.js · FastAPI · REST APIs · WebSockets · WebRTC · Asyncio
+**LLM Engineering:** Ollama · Large Language Models · Local Inference · Response Streaming · Conversation Context · FastAPI
 
-**Tools:** Git · Fusion 360 · CAD · 3D Printing
+**Programming:** Python · Java · JavaScript · HTML · CSS · JSON
+
+**Backend & Data:** Node.js · REST APIs · WebSockets · Data Pipelines · Tensor Operations · Data Formatting · Asyncio
+
+**Tools & Engineering:** Git · GitHub · uv · Uvicorn · Fusion 360 · CAD · 3D Printing
 
 ---
 
@@ -86,9 +114,9 @@ Fully local AI chatbot with streaming responses, conversation memory, and zero A
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KesleyExe&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=60a5fa&text_color=e5e5e5&icon_color=60a5fa" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesleyExe&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=60a5fa&text_color=e5e5e5" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesleyExe&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=60a5fa&text_color=e5e5e5" alt="Most Used Languages" width="48%">
 </p>
 
 <p align="center">
-  <em>Open to Software Engineering and AI/ML internship opportunities.</em>
+  <em>Interested in Machine Learning, AI Engineering, and applied research opportunities.</em>
 </p>
